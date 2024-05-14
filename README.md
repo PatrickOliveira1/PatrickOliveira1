@@ -69,7 +69,7 @@ N/A
 
 ## Repositórios que em contribuo: | Repositories that I contribute:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickOliveira1&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PatrickOliveira1/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickOliveira1&repo=RandoMovie&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PatrickOliveira1/RandoMovie)
 
 ## Meu Streak | My Streak:
 
