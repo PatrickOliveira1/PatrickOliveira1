@@ -59,18 +59,14 @@ My main skill are: proactivity, faster learner and learning by teaching, I am al
 
 N/A
 
-## Linguagens que mais utilizo: | Languages that I uso more often:
+## Linguagens que mais utilizo: | Languages that I use more often:
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PatrickOliveira1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=white)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickOliveira1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickOliveira1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) [![GitHub Streak](https://streak-stats.demolab.com/?user=PatrickOliveira1&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## Repositórios que em contribuo: | Repositories that I contribute:
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickOliveira1&repo=RandoMovie&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PatrickOliveira1/RandoMovie)
-
-## Meu Streak | My Streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PatrickOliveira1&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
