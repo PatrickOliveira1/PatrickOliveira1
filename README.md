@@ -15,8 +15,6 @@ Melhorando meu conhecimento em Python voltado ao Backend. 👨‍💻
 Tenho habilidades em Design Gráfico básicas nas ferramentas: <br>
 ✅ Corel Draw <br>
 ✅ Photoshop <br>
-✅ Illustrator <br>
-✅ InDesign <br>
 
 Grande conhecimento em informática avançada e em Software e Hardware. 🖥️
 
@@ -33,8 +31,6 @@ Improving my knowledge in Python with focus in backend. 👨‍💻
 I have skills in basic Graphic Design in tools like: <br>
 ✅ Corel Draw <br>
 ✅ Photoshop <br>
-✅ Illustrator <br>
-✅ InDesign <br>
 
 Big knowledge in advanced computing, Software and Hardware. 🖥️
 
@@ -50,16 +46,24 @@ My main skill are: proactivity, faster learner and learning by teaching, I am al
 
 ## Linguagens que estou estudando no momento: | Languages that I am studying:
 
-![HTML5](https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-1572B6?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1572B6?style=for-the-badge&logo=csharp&logoColor=white)
+
+## Linguagens que aprendi e continuo me aperfeiçoando: | Languages that I have learned and still improving:
+
+![HTML5](https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Principais Frameworks que utilizo: | Main Frameworks:
+
+N/A
 
 ## Linguagens que domino: | Languages that I master:
 
 N/A
 
-## Linguagens que mais utilizo: | Languages that I use more often:
+## Linguagens que mais utilizo: | Languages that I use most:
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PatrickOliveira1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=white)
 
