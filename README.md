@@ -10,7 +10,7 @@ Atualmente cursando superior em Ciências da Computação na UFBRA de Sobral-CE.
 
 Adquirindo conhecimento nas ferramentas de HTML e CSS e complementando com a linguagem de programação JavaScript. 🖥️
 
-Melhorando meu conhecimento em Python voltado ao Backend. 👨‍💻
+Melhorando meu conhecimento em Python e C#/.NET voltado ao Backend. 👨‍💻
 
 Tenho habilidades em Design Gráfico básicas nas ferramentas: <br>
 ✅ Corel Draw <br>
@@ -26,7 +26,7 @@ At the moment I am studying Computer Sciences in the UFBRA university in Sobral-
 
 Acquiring knowledge in tools like HTML and CSS and complementing with the JavaScript Programming Language. 🖥️
 
-Improving my knowledge in Python with focus in backend. 👨‍💻
+Improving my knowledge in Python and C#/.NET with focus in backend. 👨‍💻
 
 I have skills in basic Graphic Design in tools like: <br>
 ✅ Corel Draw <br>
@@ -57,7 +57,7 @@ My main skill are: proactivity, faster learner and learning by teaching, I am al
 
 ## Principais Frameworks que utilizo: | Main Frameworks:
 
-N/A
+![.NET](https://img.shields.io/badge/.net-1572B6?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Linguagens que domino: | Languages that I master:
 
